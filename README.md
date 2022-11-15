@@ -101,6 +101,6 @@ See also the list of [contributors](https://github.com/Raja-Kadali-FW/gitactions
 - References
 
 
-### Gensh Documentation
+## Gensh Documentation
 
 #github-action genshdoc
