@@ -59,6 +59,11 @@ Give examples
 A step by step series of examples that tell you how to get a development env running.
 
 <!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./docs/install.sh&lines=2-8) -->
+<!-- The below code snippet is automatically added from ./docs/install.sh -->
+```sh
+yum install java
+yum install docker-ce
+```
 <!-- MARKDOWN-AUTO-DOCS:END -->
 
 
