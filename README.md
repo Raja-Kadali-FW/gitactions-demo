@@ -22,6 +22,7 @@
 
 ## 📝 Table of Contents
 - [About](#about)
+- [Requirements](#requirements)
 - [Getting Started](#getting_started)
 - [Deployment](#deployment)
 - [Usage](#usage)
@@ -33,6 +34,9 @@
 
 ## 🧐 About <a name = "about"></a>
 how to create a dynamic readme using github actions
+
+## Requirements <a name = "requirements"></a>
+<!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./docs/requirements.txt) -->
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
@@ -99,8 +103,3 @@ See also the list of [contributors](https://github.com/Raja-Kadali-FW/gitactions
 - Hat tip to anyone whose code was used
 - Inspiration
 - References
-
-
-## Gensh Documentation
-
-#github-action genshdoc
