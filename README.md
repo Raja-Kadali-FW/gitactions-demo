@@ -37,6 +37,12 @@ how to create a dynamic readme using github actions
 
 ## Requirements <a name = "requirements"></a>
 <!-- MARKDOWN-AUTO-DOCS:START (CODE:src=./docs/requirements.txt) -->
+<!-- The below code snippet is automatically added from ./docs/requirements.txt -->
+```txt
+docker
+aws iam authenticator
+jdk
+```
 <!-- MARKDOWN-AUTO-DOCS:END -->
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
